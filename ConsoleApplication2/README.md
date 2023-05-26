@@ -44,8 +44,7 @@ for (int i = 1; i <= 5; i++) {
 }
 ```
 
-Sim, este código vai gerar 6 numeros porque é definido no loop que só vai parar se for inferior e igual.
-
+Este código vai fazer a mesma coisa que o antrior, Só que em vez de i ser igual a = 0 é igual a 1 e o limite do exercicio antrior é < 5 e neste é <= 5.
 # Exercicio 6
 
 ```csharp
