@@ -90,12 +90,10 @@ var x = random.Next(0, 2);
 # Exercicio 11
 
 ```csharp
-```csharp
 Random random = new Random();
 var x = random.Next(7);
 ```
 
-```csharp
 ```csharp
 Random random = new Random();
 var x = random.Next(0, 7);
